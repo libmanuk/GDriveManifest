@@ -12,11 +12,11 @@ function gdrivemanifest() {
   
   var ss = SpreadsheetApp.create(gdrive_folder_list);
   var sheet = ss.getActiveSheet();
-  sheet.appendRow( ['name', 'link'] );
+  sheet.appendRow( ['filename', 'gdrivelink'] );
   
   var file;
-  var name;
-  var link;
+  var filename;
+  var gdrivelink;
   var row;
   while(contents.hasNext()) {
     file = contents.next();
