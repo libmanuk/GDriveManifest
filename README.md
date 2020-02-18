@@ -1,5 +1,6 @@
 # GDriveManifest
-## Step by Step:
+
+## Step by Step
 
 1. Open a new Google Sheet document from the Google account for which you want a Google Drive directory listing.
 2. In the toolbar for the new Google Sheet, go to Tools -> Script editor
