@@ -9,3 +9,6 @@
 6. Run script by clicking on the right-pointing triangle in the button bar.
 7. 'Authorization required' pop up will appear; grant authorization.
 8. A listing of the files in the specified folder, along with URLs for those files, will then appear in your root My Drive as a Google Sheet named 'manifest for folder *target-folder*'
+
+## License
+This software on this site is provided "as-is," without any express or implied warranty. In no event shall libmanuk be held liable for any damages arising from the use of the software.
