@@ -21,7 +21,7 @@ function gdrivemanifest() {
   while(contents.hasNext()) {
     file = contents.next();
     name = file.getName();
-    link = file.getUrl();
+    link = file.getId();
     sheet.appendRow( [name, link] );     
   }  
 };
